@@ -1,0 +1,6 @@
+[submodule "p10-t2-lexer-generator-use-alu0100896565"]
+	path = p10-t2-lexer-generator-use-alu0100896565
+	url = git@github.com:alu0100896565/p10-t2-lexer-generator-use-alu0100896565.git
+[submodule "p10-t2-lexer-generator-action-alu0100896565"]
+	path = p10-t2-lexer-generator-action-alu0100896565
+	url = git@github.com:alu0100896565/p10-t2-lexer-generator-action-alu0100896565.git
